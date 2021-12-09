@@ -13,5 +13,8 @@
     "mongodb",
     "login"
   ],
-  "git repository":"https://github.com/Banbooooooo/NodejsMongodbLog"
+  "git repository": "https://github.com/Banbooooooo/NodejsMongodbLog",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
